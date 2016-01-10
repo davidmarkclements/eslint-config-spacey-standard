@@ -1,0 +1,7 @@
+{
+  "extends": "standard",
+  "rules": {
+    "no-multiple-empty-lines": [2, {"max": 3, "maxEOF": 1}],
+    "padded-blocks": 0
+  }
+}
